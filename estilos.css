@@ -1,0 +1,40 @@
+#body
+{
+    width: 90%;
+}
+ul
+{
+    list-style: none;   
+}
+#Primer
+{
+
+}
+#ST
+{
+    float: right;
+}
+#Fup
+{
+    align-self: auto;
+}
+#Fdw
+{
+    text-align: center;
+}
+#Pleft
+{
+    text-align: left;
+}
+#Pcenter
+{
+    text-align: center;
+}
+#Pright
+{
+    text-align: right;
+}
+footer
+{
+    clear: both;
+}
